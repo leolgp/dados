@@ -1,0 +1,18 @@
+
+.casa{
+    display: flex;
+    background-color: beige;
+    width: 400px;
+    
+    border: 1px solid black;
+}
+
+.linhaDeBaixo{
+    display: flex;
+}
+
+.peao{
+    max-width: 50px;
+   object-fit: cover;
+
+}
